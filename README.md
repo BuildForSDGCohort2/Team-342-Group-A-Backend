@@ -1,4 +1,4 @@
-# Team-342-Group-A-Backend
+# aFarm
 Online Platforms to Help Connect Buyers and Farmers.
 Local Food Marketplace
 
