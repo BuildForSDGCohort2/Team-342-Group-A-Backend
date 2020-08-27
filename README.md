@@ -1,6 +1,6 @@
 # aFarm
 Online Platforms to Help Connect Buyers and Farmers.
-Local Food Marketplace
+ Also serves as a Local Food Marketplace
 
 
 
